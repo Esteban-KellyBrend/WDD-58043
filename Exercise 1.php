@@ -3,8 +3,8 @@
 <body>
 
 <?php
-$Fullname = "Kelly Brend A. Esteban";  
-echo $Fullname;
+$Full_name = "Kelly Brend A. Esteban";  
+echo $Full_name;
 echo "<br>";
 $College_Program= "BS CpE";  
 echo $College_Program;
