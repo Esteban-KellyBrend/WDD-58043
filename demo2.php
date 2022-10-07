@@ -52,10 +52,12 @@ while($a>=1)
 }
 
 //do while loop
+echo "<br>";
 $b = 5;
 do
 {
-	echo "<br>The number is:".$b;
+	echo "The number is: $b";
+	echo "<br>";
 	$b--;
 }
 	while ($b >= 1);
