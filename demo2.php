@@ -42,6 +42,7 @@ else
 }
 echo"<br>";*/
 //while loop
+echo "<br>";
 $a = 5; 
 while($a>=1)
 {
@@ -58,5 +59,7 @@ do
 	$b--;
 }
 	while ($b >= 1);
+	
+	
 ?>
 </html>
