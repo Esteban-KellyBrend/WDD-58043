@@ -10,7 +10,7 @@ if ($a>=70)
 {
 	$grade = "Passed";
 }
-else if($a>=60 && $a<70)
+else if($a>=60 && $a<=69)
 {
 	$grade = "Remedial";
 }
