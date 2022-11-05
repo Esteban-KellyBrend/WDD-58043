@@ -1,5 +1,5 @@
 <html>
-<head><Title>Long Quiz 2</title></head>
+<head><title>Long Quiz 2</title></head>
 <body>
 <?php
 
@@ -36,3 +36,4 @@ echo "The answer for adding all positive integers from 1-50 is: $sum";
 </body>
 </html>
 
+	
